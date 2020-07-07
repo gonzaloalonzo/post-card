@@ -1,0 +1,43 @@
+body{
+    background: black;
+    font-family: 'Galada',
+    cursive;
+}
+.container{
+    background-color: white;
+    height: 300px;
+    width: 400px;
+    margin-top: 15%;
+    margin-bottom: 35%;
+    margin-left: 30%;
+    margin-right: 30%; 
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+img{
+    margin-top: 10px;
+    margin-right: 5px;
+}
+.body{
+    display: flex;
+    margin-left: 10px;
+    font-size: 13px;
+}
+input {
+    margin-top: 10px;
+    margin-right: 10px;
+    font-family: FontAwesome,
+    "Open Sans",
+    Verdana,
+    sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: inherit;
+}
+.footer{
+    display: flex;
+    justify-content: center;
+}
